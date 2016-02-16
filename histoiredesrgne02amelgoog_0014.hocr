@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./histoiredesrgne02amelgoog_0014.png"; bbox 0 0 3356 5182; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 629 1915 929 2010">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 629 1915 929 2010">
+     <span class='ocr_line' id='line_1_1' title="bbox 629 1915 929 2010; baseline 0.007 -4"><span class='ocrx_word' id='word_1_1' title='bbox 629 1915 929 2010; x_wconf 82' lang='lat' dir='ltr'>HISTOIRE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 376 2407 1187 2541">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 376 2407 1187 2541">
+     <span class='ocr_line' id='line_1_2' title="bbox 376 2407 1187 2541; baseline 0.002 -3"><span class='ocrx_word' id='word_1_2' title='bbox 376 2407 625 2540; x_wconf 72' lang='lat' dir='ltr'><strong>REGNE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 669 2427 766 2541; x_wconf 80' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 816 2425 1042 2540; x_wconf 76' lang='lat' dir='ltr'><strong>LOUIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1087 2427 1187 2540; x_wconf 84' lang='lat' dir='ltr'>XI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1682 5182">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1682 5182">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1682 5182; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1682 5182; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
